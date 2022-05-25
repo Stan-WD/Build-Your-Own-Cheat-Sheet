@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    border: 1px solid blueviolet;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: rgb(241, 159, 200);
+    border: 1px ridge white;
+}
+
+body {
+    background-color: thistle;
+}
+
+td {
+    background-color: thistle;
+    border: 1px ridge white;
+}
+
+mark {
+    background-color: wheat;
+}
